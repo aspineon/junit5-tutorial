@@ -21,3 +21,6 @@ Open the **JUnit5UserRepositoryImplFileTest.java**
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, T** to start the main method
 
 All the source code are described in: [JUnit 5 Tutorial - Getting Started With The Next Generation of JUnit](http://howtoprogram.xyz/2016/08/07/junit-5-tutorial/)
+
+## 4. Related Posts
+## [JUnit 5 vs JUnit 4](http://howtoprogram.xyz/2016/08/10/junit-5-vs-junit-4/)
