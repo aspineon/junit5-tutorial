@@ -7,7 +7,7 @@
   <packaging>jar</packaging>
 
   <name>junit5-tutorial</name>
-  <url>http://maven.apache.org</url>
+  <url>http://howtoprogram.xyz</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
